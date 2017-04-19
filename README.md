@@ -3,7 +3,7 @@ Edited and Improved by AdsTeam
 
 ## Install
 ```bash
-git clone https://github.com/AdsTeam/sirads.git && cd sirads && chmod 777 install.sh && chmod 777 anticrash.sh && ./install.sh && lua creator.lua
+git clone https://github.com/sinaghm/sirads.git && cd sirads && chmod 777 install.sh && chmod 777 anticrash.sh && ./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
